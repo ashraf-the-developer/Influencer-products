@@ -214,3 +214,32 @@ nav .menu ul li a{
 .featured-products .featured-products-div .featured-details button:hover{
     background-color: #3A3A3A;
 }
+/* footer section */
+.footer-section{
+    max-width: 1440px;
+    background-color: #0A0826;
+    text-align: center;
+}
+.footer-section .footer-details{
+    justify-self: center;
+    padding: 50px; 
+}
+.footer-section .footer-details h3{
+    width: 243px;
+    font-weight: 700;
+    font-size: 24px;
+    color: var(--white-color);
+    margin-bottom: 3px;
+}
+.footer-section .footer-details p{
+    width: 262px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+    margin-bottom: 17px;
+}
+.footer-section .footer-details img{
+    margin-right: 16px;
+    cursor: pointer;
+}
