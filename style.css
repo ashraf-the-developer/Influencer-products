@@ -93,8 +93,22 @@ nav .menu ul li a{
     max-width: 475px;
     margin-right: 120px;
     background: url(./images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .hero-section .banner-img img{
     width: 100%;
 }
 /* main section--sponsors */
+.companies{
+    margin: 0 auto;
+    max-width: 1110px;
+    border: 1px solid #C0CCDA;
+    display: flex;
+    gap: 60px;
+    padding: 36px 62px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
